@@ -19,5 +19,5 @@ Segue minhas redes sociais
 <a href="https://w.app/Q6lXuH" Segue meu Whastapp><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whats-logo"> <a/>
 </li>
 
-[![Vinicius Stats](https://github-readme-stats.vercel.app/api?username=ViniciusNeve)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats ](https://github-readme-stats.vercel.app/api/wakatime?username=ViniciusNeve)](https://github.com/anuraghazra/github-readme-stats)
+[![Vinicius Stats](https://github-readme-stats.vercel.app/api?username=ViniciusSnow)](https://github.com/anuraghazra/github-readme-stats)
+
